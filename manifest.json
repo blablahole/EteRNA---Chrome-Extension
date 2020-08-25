@@ -1,0 +1,13 @@
+{
+    "name": "EteRNA Chrome Extension",
+    "description": "Folding RNA game through Chrome Extension",
+    "background": {
+        "scripts": {
+
+    }
+},
+"version": "0.0.0.1",
+"manifest_version": 2,
+"icons": {
+}
+}
