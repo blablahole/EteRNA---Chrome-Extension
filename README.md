@@ -4,7 +4,7 @@ EteRNA folding RNA project in chrome extension version. This extension is build 
 
 Original source code from https://github.com/eternagame/EternaJS.
 
-# Guide to install the extension 
+# Installation guide 
 
 1. Download all the files as one folder.
 2. Go to Chrome Extension at chrome://extensions/.
