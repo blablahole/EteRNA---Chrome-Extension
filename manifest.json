@@ -1,13 +1,19 @@
 {
-    "name": "EteRNA Chrome Extension",
-    "description": "Folding RNA game through Chrome Extension",
-    "background": {
-        "scripts": {
-
-    }
-},
-"version": "0.0.0.1",
-"manifest_version": 2,
-"icons": {
-}
+  "name": "EteRNA Chrome Extension",
+  "description": "EteRNA Chrome Extension enables gamer to map RNA structures in any tab.",
+  "version": "1.0",
+	"icons": {
+        "16": "icon.png",
+        "48": "icon.png",
+        "128": "icon.png"
+    },
+  "permissions": [
+    "activeTab"
+  ],
+  "browser_action": {
+      "default_title": "Set this page's color.",
+      "default_icon": "icon.png",
+      "default_popup": "popup.html"
+  },
+  "manifest_version": 2
 }
