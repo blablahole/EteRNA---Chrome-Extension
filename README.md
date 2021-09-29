@@ -1,6 +1,6 @@
 # EteRNA Chrome-Extension
 
-EteRNA folding RNA project in chrome extension version. This extension is build with simple iframe plug-in, which works with local host.
+Eterna is an online game that invites everyone to help advance medical research. You play by solving puzzles using RNAs, tiny molecules at the heart of every cell. This chrome extension is build with simple iframe plug-in, which works with local host.
 
 Original source code from https://github.com/eternagame/EternaJS.
 
